@@ -1,2 +1,2 @@
 # matrixCalculator
-small python script describing a matrix calculator made during A Levels to help check matrix equations I had made
+during the work toward A Level Maths, I created a Matrix Calculator which could run both matrix addition and matrix multiplication on appropriately formed matrices. It served to check work as I did practice papers.
